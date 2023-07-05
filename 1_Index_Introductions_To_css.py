@@ -29,6 +29,7 @@
    <!----****ID****----!>
  --we use # for id  ,then the name of the if e.g <p id='book'><p/>
 --in css we refer to it by #book{}
+   Theu can only be used  once.They are unique
 
    <!----****classes****----!>
    They can be used multiple times in a page
