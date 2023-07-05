@@ -116,6 +116,38 @@ It's important to note that the default display property of an element can be mo
        acronym, abbr, cite, code, dfn, em, kbd, samp, var
        b, big, i, small, tt, bdo, br, q, sub, sup 
 
+ The list of HTML elements you provided represents a variety of inline-level elements. Inline-level elements do not start on a new line and only occupy the space necessary for their content. Here's an explanation of each element:
+
+<span>: This is an inline-level element used to apply styles to a specific portion of text or to group inline elements.
+
+<button>: This is an inline-level element used to create a clickable button.
+
+<label>: This is an inline-level element used to associate a text label with a form element.
+
+<a> (Anchor): This is an inline-level element used to create hyperlinks to other web pages or specific parts of a page.
+
+<input>: This is an inline-level element used to create various types of form input fields, such as text fields, checkboxes, radio buttons, etc.
+
+<strong>: This is an inline-level element used to indicate strong importance or emphasis.
+
+<textarea>: This is an inline-level element used to create a multi-line text input field.
+
+<select>: This is an inline-level element used to create a dropdown list or selection box.
+
+<img> (Image): This is an inline-level element used to display an image on the page.
+
+<script>: This is an inline-level element used to embed or reference JavaScript code within an HTML document.
+
+<map>: This is an inline-level element used in conjunction with <area> elements to create image maps.
+
+<object>: This is an inline-level element used to embed multimedia content or external resources, such as audio, video, or interactive applications.
+
+<acronym>, <abbr>, <cite>, <code>, <dfn>, <em>, <kbd>, <samp>, <var>: These are inline-level elements used to provide semantic meaning to specific types of content, such as abbreviations, citations, code snippets, definitions, emphasis, keyboard input, sample output, and variables.
+
+<b>, <big>, <i>, <small>, <tt>, <bdo>, <br>, <q>, <sub>, <sup>: These are inline-level elements used for various formatting purposes, such as bold text, larger or smaller text, italicized text, monospace text, bidirectional text override, line breaks, inline quotes, subscript, and superscript.
+
+These inline-level elements are commonly used to structure and style specific parts of a document, provide interactivity, handle user input, and present content in a visually appealing manner.
+
       How ever you can change the display of both inline and block elemnts by changing
       The display in css.
       e.g To change block elements to be displayed inline
