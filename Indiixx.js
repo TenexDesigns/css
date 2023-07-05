@@ -1,4 +1,4 @@
-/*  Here we are going To Tali about The declaration
+ Here we are going To Tali about The declaration
   slector{declaration}
 
   The declaration Has a 
