@@ -1,4 +1,4 @@
- /* In css We usually have a selector and declation
+/* In css We usually have a selector and declation
 
   slector{declaration}
        
